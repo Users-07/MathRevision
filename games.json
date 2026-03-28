@@ -1,9 +1,25 @@
 [
   {
-    "id": "basketball-stars",
-    "title": "Basketball Stars",
-    "description": "Show off your basketball skills in this fast-paced game. Play 1v1 or against the AI.",
-    "thumbnail": "https://picsum.photos/seed/basketball-stars/400/300",
-    "iframeUrl": "https://basketballstars.github.io/"
+    "id": "basketball-stars-io",
+    "title": "Basketball Stars (IO)",
+    "description": "The official Basketball Stars game. Show off your skills on the court and become a basketball legend.",
+    "thumbnail": "https://picsum.photos/seed/basketball-io/800/600",
+    "iframeUrl": "https://basketball-stars.io/",
+    "type": "iframe"
+  },
+  {
+    "id": "snake-native",
+    "title": "Neon Snake AI",
+    "description": "A high-performance, native Snake game built with pure JavaScript. No iframes, no lags, just pure retro action.",
+    "thumbnail": "https://picsum.photos/seed/neon-snake/800/600",
+    "type": "native"
+  },
+  {
+    "id": "space-waves",
+    "title": "Space Waves",
+    "description": "A fast-paced, challenging arcade game where you navigate a wave through obstacles in space.",
+    "thumbnail": "https://picsum.photos/seed/space-waves/800/600",
+    "iframeUrl": "https://space-waves-unblocked.github.io/space-waves/",
+    "type": "iframe"
   }
 ]
