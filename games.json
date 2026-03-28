@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "script-game",
+    "title": "Script Game",
+    "description": "A web game hosted via Google Apps Script.",
+    "thumbnail": "https://picsum.photos/seed/game/400/300",
+    "iframeUrl": "https://n-qq75fzdv6ocahvghtyiqiouok7r4eykich4bcqi-0lu-script.googleusercontent.com/userCodeAppPanel"
+  }
+]
