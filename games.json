@@ -1,9 +1,9 @@
 [
   {
-    "id": "script-game",
-    "title": "Script Game",
-    "description": "A web game hosted via Google Apps Script.",
-    "thumbnail": "https://picsum.photos/seed/game/400/300",
-    "iframeUrl": "https://n-qq75fzdv6ocahvghtyiqiouok7r4eykich4bcqi-0lu-script.googleusercontent.com/userCodeAppPanel"
+    "id": "basketball-stars",
+    "title": "Basketball Stars",
+    "description": "Show off your basketball skills in this fast-paced game. Play 1v1 or against the AI.",
+    "thumbnail": "https://picsum.photos/seed/basketball-stars/400/300",
+    "iframeUrl": "https://basketballstars.github.io/"
   }
 ]
