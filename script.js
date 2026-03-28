@@ -34,7 +34,7 @@ function renderGrid() {
     );
 
     // Featured games are the ones the user specifically asked for
-    const featuredIds = ['basketball-stars-io', 'snake-native'];
+    const featuredIds = ['basketball-stars', 'slope'];
     const featuredGames = games.filter(g => featuredIds.includes(g.id));
 
     let html = `
@@ -52,7 +52,7 @@ function renderGrid() {
                     Anywhere.
                 </h1>
                 <p class="text-white/40 max-w-xl text-sm sm:text-lg font-medium leading-relaxed">
-                    The ultimate collection of unblocked games. No downloads, no blocks, just pure performance directly in your browser.
+                    The ultimate collection for Math Revision. No downloads, no blocks, just pure performance directly in your browser.
                 </p>
             </header>
 
@@ -175,9 +175,16 @@ function renderPlayer() {
             <div class="relative flex-1 bg-black rounded-2xl overflow-hidden border border-white/10 shadow-2xl shadow-orange-500/10 ${isFullscreen ? 'rounded-none border-none h-full' : 'aspect-video'}">
                 <iframe
                     src="${game.iframeUrl}"
-                    class="w-full h-full border-none"
+                    class="game-iframe w-full h-full border-none"
                     title="${game.title}"
-                    allow="fullscreen"
+                    id="game-area"
+                    name="gameFrame"
+                    scrolling="no"
+                    frameborder="0"
+                    allow="autoplay; fullscreen; camera; microphone; focus-without-user-activation *; monetization; gamepad; keyboard-map *; xr-spatial-tracking; clipboard-write; web-share; accelerometer; magnetometer; gyroscope; display-capture"
+                    sandbox="allow-forms allow-modals allow-orientation-lock allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-presentation allow-scripts allow-same-origin allow-downloads"
+                    allowfullscreen="true"
+                    data-wg-content="true"
                 ></iframe>
             </div>
 

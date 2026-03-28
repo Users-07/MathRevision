@@ -1,10 +1,10 @@
 [
   {
-    "id": "basketball-stars-io",
-    "title": "Basketball Stars (IO)",
-    "description": "The official Basketball Stars game. Show off your skills on the court and become a basketball legend.",
-    "thumbnail": "https://picsum.photos/seed/basketball-io/800/600",
-    "iframeUrl": "https://basketball-stars.io/",
+    "id": "basketball-stars",
+    "title": "Basketball Stars",
+    "description": "Play Basketball Stars unblocked. Show off your skills on the court and become a basketball legend.",
+    "thumbnail": "https://picsum.photos/seed/basketball-stars/800/600",
+    "iframeUrl": "https://j0n12.github.io/macvg/projects/basketball-stars/game.html",
     "type": "iframe"
   },
   {
@@ -20,6 +20,86 @@
     "description": "A fast-paced, challenging arcade game where you navigate a wave through obstacles in space.",
     "thumbnail": "https://picsum.photos/seed/space-waves/800/600",
     "iframeUrl": "https://space-waves-unblocked.github.io/space-waves/",
+    "type": "iframe"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "A fast-paced 3D running game where you control a ball down a steep slope. Avoid obstacles and stay on the track!",
+    "thumbnail": "https://picsum.photos/seed/slope-neon/800/600",
+    "iframeUrl": "https://azgames.io/game/slope/",
+    "type": "iframe"
+  },
+  {
+    "id": "ragdoll-archers",
+    "title": "Ragdoll Archers",
+    "description": "A physics-based archery game where you control a ragdoll archer. Aim, shoot, and defeat your enemies!",
+    "thumbnail": "https://picsum.photos/seed/ragdoll-archers/800/600",
+    "iframeUrl": "https://ragdollarchersonline.io/play/ragdoll-archers/",
+    "type": "iframe"
+  },
+  {
+    "id": "basket-random",
+    "title": "Basket Random",
+    "description": "A fun and unpredictable 2-player basketball game with physics-based gameplay. Score baskets and win the match!",
+    "thumbnail": "https://picsum.photos/seed/basket-random/800/600",
+    "iframeUrl": "https://ragdollarchersonline.io/play/basket-random/",
+    "type": "iframe"
+  },
+  {
+    "id": "dinosaur-game-new",
+    "title": "Dinosaur Game New",
+    "description": "Access the latest and most popular games on Dinosaur Game. A wide variety of unblocked games for everyone.",
+    "thumbnail": "https://picsum.photos/seed/dinosaurgame/800/600",
+    "iframeUrl": "https://dinosaur-game.io/new-games",
+    "type": "iframe"
+  },
+  {
+    "id": "snow-rider-3d",
+    "title": "Snow Rider 3D",
+    "description": "Experience the thrill of sledding down a snowy mountain in 3D. Avoid obstacles and collect gifts to unlock new sleds!",
+    "thumbnail": "https://picsum.photos/seed/snowrider3d/800/600",
+    "iframeUrl": "https://ragdollarchersonline.io/play/snow-rider-3d/",
+    "type": "iframe"
+  },
+  {
+    "id": "among-us",
+    "title": "Among Us",
+    "description": "Play Among Us online! Work together with your crewmates to find the impostor, or sabotage the mission as the impostor.",
+    "thumbnail": "https://picsum.photos/seed/among-us/800/600",
+    "iframeUrl": "https://ragdollarchersonline.io/play/among-us/",
+    "type": "iframe"
+  },
+  {
+    "id": "golf-orbit",
+    "title": "Golf Orbit",
+    "description": "A fun and addictive golf game where you aim to hit the ball as far as possible. Upgrade your skills and reach for the stars!",
+    "thumbnail": "https://picsum.photos/seed/golforbit/800/600",
+    "iframeUrl": "https://ragdollarchersonline.io/play/golf-orbit/",
+    "type": "iframe"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The original idle game where you bake an absurd amount of cookies. Click the giant cookie and build your cookie empire!",
+    "thumbnail": "https://picsum.photos/seed/cookieclicker/800/600",
+    "iframeUrl": "https://ragdollarchersonline.io/play/cookie-clicker/",
+    "type": "iframe"
+  },
+  {
+    "id": "drift-boss",
+    "title": "Drift Boss",
+    "description": "A fun and addictive drifting game where you must navigate a car through a series of challenging corners. Master the art of drifting!",
+    "thumbnail": "https://picsum.photos/seed/driftboss/800/600",
+    "iframeUrl": "https://ragdollarchersonline.io/play/drift-boss/",
+    "type": "iframe"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "The classic Flappy Bird experience. Navigate Buzzy Bee through the pipes and see how far you can go!",
+    "thumbnail": "https://picsum.photos/seed/flappybird/800/600",
+    "iframeUrl": "https://playcanv.as/apps/960d78f4/index.html",
     "type": "iframe"
   }
 ]
